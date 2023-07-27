@@ -19,6 +19,7 @@ Make sure you have Python installed on your computer. You can download Python fr
 Install the necessary Python packages. Open a command prompt or terminal and run the following commands:
 
 **pip install requests**
+
 **pip install opencv-python**
 
 
